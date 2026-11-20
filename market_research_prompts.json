@@ -1,0 +1,74 @@
+[
+  {
+    "prompt": "Analyze why Gen Z shoppers abandon mobile carts during checkout.",
+    "category": "Consumer Behavior"
+  },
+  {
+    "prompt": "Identify key drivers behind repeat purchases in sustainable apparel.",
+    "category": "Consumer Behavior"
+  },
+  {
+    "prompt": "Evaluate how free shipping thresholds influence average order value.",
+    "category": "Consumer Behavior"
+  },
+  {
+    "prompt": "Examine customer price sensitivity for subscription meal kits.",
+    "category": "Consumer Behavior"
+  },
+  {
+    "prompt": "Assess how social proof and verified reviews impact first-time buyers.",
+    "category": "Consumer Behavior"
+  },
+  {
+    "prompt": "Investigate purchasing motivations among suburban families buying bulk groceries.",
+    "category": "Consumer Behavior"
+  },
+  {
+    "prompt": "Forecast demand growth for eco-friendly home goods over the next 12 months.",
+    "category": "Market Trends"
+  },
+  {
+    "prompt": "Identify emerging seasonal fashion trends in North America and Europe.",
+    "category": "Market Trends"
+  },
+  {
+    "prompt": "Analyze the shift from brick-and-mortar retail to social commerce.",
+    "category": "Market Trends"
+  },
+  {
+    "prompt": "Evaluate inflation impacts on discretionary spending in consumer electronics.",
+    "category": "Market Trends"
+  },
+  {
+    "prompt": "Track rising adoption of buy-now-pay-later services among millennials.",
+    "category": "Market Trends"
+  },
+  {
+    "prompt": "Summarize post-pandemic growth trends in at-home fitness equipment.",
+    "category": "Market Trends"
+  },
+  {
+    "prompt": "Compare pricing tiers and loyalty perks across top three athletic wear brands.",
+    "category": "Competitor Analysis"
+  },
+  {
+    "prompt": "Benchmark our delivery speed and return policy against leading online retailers.",
+    "category": "Competitor Analysis"
+  },
+  {
+    "prompt": "Identify product gaps in competitors' budget-friendly skincare lines.",
+    "category": "Competitor Analysis"
+  },
+  {
+    "prompt": "Analyze customer complaints directed at rival meal-delivery apps.",
+    "category": "Competitor Analysis"
+  },
+  {
+    "prompt": "Evaluate competitor marketing positioning in the mid-tier smart home market.",
+    "category": "Competitor Analysis"
+  },
+  {
+    "prompt": "Assess market share strengths of top regional coffee chains.",
+    "category": "Competitor Analysis"
+  }
+]
